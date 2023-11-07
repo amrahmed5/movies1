@@ -12,7 +12,7 @@ class List_View extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            "aaaknsk",
+            "New Releases",
             style: TextStyle(
               color: Colors.white,
               fontSize: 22,
